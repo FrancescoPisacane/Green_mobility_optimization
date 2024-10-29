@@ -58,9 +58,4 @@ The two scenarios yield different solutions due to variations in energy consumpt
 3. **Final Visualization**:
    - The solution is plotted on the graph, highlighting the POIs with stations in green for easy interpretation.
 
-## How to Use This Project
-
-1. Clone the repository and ensure you have the required libraries installed:
-   ```bash
-   git clone <repository-url>
-   pip install networkx mip matplotlib
+This project showcases a practical approach to optimizing EV charging station placements with cost and energy constraints, providing a scalable solution adaptable to real-world scenarios.
